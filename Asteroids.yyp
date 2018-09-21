@@ -31,10 +31,26 @@
     },
     "resources": [
         {
+            "Key": "01b87e23-ff91-4f36-83c2-985b32856a3f",
+            "Value": {
+                "id": "acbb20a1-02ad-431c-86cd-b35153d80b80",
+                "resourcePath": "sprites\\s_medAsteroidBreaking\\s_medAsteroidBreaking.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "177e8060-35ab-4aa6-962b-29ace8140288",
             "Value": {
                 "id": "8627b6f5-2673-4687-ad4b-92c0d86a20cd",
                 "resourcePath": "objects\\o_smallAsteroid\\o_smallAsteroid.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "2b3b2042-7751-4686-bb41-fbdaa84eea61",
+            "Value": {
+                "id": "bc935c34-ecf8-4381-99de-1f6bf1f82d62",
+                "resourcePath": "objects\\o_medAsteroid\\o_medAsteroid.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -111,10 +127,26 @@
             }
         },
         {
+            "Key": "5ca337ca-8226-494d-baec-2c49d17d0ef0",
+            "Value": {
+                "id": "a8299806-e68c-4e2c-afa7-edb3c3774296",
+                "resourcePath": "objects\\o_deadSpaceship\\o_deadSpaceship.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "6cd4eca6-2909-4a0e-b061-77a8761e4508",
             "Value": {
                 "id": "25298e15-b63d-42f7-b117-3c3eb4d43303",
                 "resourcePath": "sprites\\s_bulletAppear\\s_bulletAppear.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "8d0a99df-aa7a-4bab-982e-7658dbe65f83",
+            "Value": {
+                "id": "f8a7b154-3cff-4603-a507-56879f5f5ba6",
+                "resourcePath": "sprites\\s_spaceshipHurt\\s_spaceshipHurt.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -156,6 +188,14 @@
                 "id": "6d4ef78a-8c84-4146-8106-b2fbfd9a8cf1",
                 "resourcePath": "views\\bd06a39e-d70c-40af-8053-947d6ec77361.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "c3c37340-b13d-4a89-8b75-8560423fb825",
+            "Value": {
+                "id": "819f0545-fc28-4df2-a97e-a46b982b315d",
+                "resourcePath": "objects\\o_theSpawner\\o_theSpawner.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -220,6 +260,22 @@
                 "id": "fa936cca-d184-4971-95de-283dc26584ce",
                 "resourcePath": "views\\e72bb981-598a-45c1-959c-7d93f1a6dcc1.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "e821fb66-6ba6-4f82-bca4-6c78d568bcbd",
+            "Value": {
+                "id": "dd9fbce3-2b4e-493d-984c-4c3afc2921d6",
+                "resourcePath": "sprites\\s_spaceshipDies\\s_spaceshipDies.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "efcdef2a-0993-41dc-bd97-2202c347bd9c",
+            "Value": {
+                "id": "1c926b64-b0ce-47be-8545-de42b474e91f",
+                "resourcePath": "sprites\\s_medAsteroid\\s_medAsteroid.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
