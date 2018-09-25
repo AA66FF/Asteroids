@@ -34,7 +34,7 @@
             "Key": "018d0437-2367-4926-8e04-f134de7b30ea",
             "Value": {
                 "id": "2db2fffd-63fd-413e-8385-0fe8b0d7109c",
-                "resourcePath": "sprites\\sprite9\\sprite9.yy",
+                "resourcePath": "sprites\\s_bigAsteroid\\s_bigAsteroid.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -44,14 +44,6 @@
                 "id": "acbb20a1-02ad-431c-86cd-b35153d80b80",
                 "resourcePath": "sprites\\s_medAsteroidBreaking\\s_medAsteroidBreaking.yy",
                 "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "177e8060-35ab-4aa6-962b-29ace8140288",
-            "Value": {
-                "id": "8627b6f5-2673-4687-ad4b-92c0d86a20cd",
-                "resourcePath": "objects\\o_smallAsteroid\\o_smallAsteroid.yy",
-                "resourceType": "GMObject"
             }
         },
         {
@@ -68,6 +60,14 @@
                 "id": "a191f5dd-9cf7-4922-8b99-db3078407b04",
                 "resourcePath": "sprites\\s_spaceship\\s_spaceship.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "315d399e-71dd-4f35-81fe-1336f0508dcc",
+            "Value": {
+                "id": "402c7afd-51fc-4d6e-94e1-6a5e96c36071",
+                "resourcePath": "objects\\o_smallAsteroid\\o_smallAsteroid.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -151,6 +151,22 @@
             }
         },
         {
+            "Key": "75e7108e-05ec-46d9-bb65-42b2113d2d4a",
+            "Value": {
+                "id": "03e6fbf2-09de-4cfa-ae24-89fff2c3a378",
+                "resourcePath": "sprites\\s_bigAsteroidBreaking\\s_bigAsteroidBreaking.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "7a997095-fdae-47c1-81d3-94017316b85f",
+            "Value": {
+                "id": "e2d58327-f190-4ba0-a3e7-25ddca05aee0",
+                "resourcePath": "objects\\o_medAsteroidBreaking\\o_medAsteroidBreaking.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "8d0a99df-aa7a-4bab-982e-7658dbe65f83",
             "Value": {
                 "id": "f8a7b154-3cff-4603-a507-56879f5f5ba6",
@@ -203,6 +219,14 @@
             "Value": {
                 "id": "819f0545-fc28-4df2-a97e-a46b982b315d",
                 "resourcePath": "objects\\o_theSpawner\\o_theSpawner.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "c5ac8fd1-c52d-4872-aa30-49fe39c56ecb",
+            "Value": {
+                "id": "f3a398cc-8fd6-4ba6-83b5-1a267b4a1f0f",
+                "resourcePath": "objects\\o_smallAsteroidBreaking\\o_smallAsteroidBreaking.yy",
                 "resourceType": "GMObject"
             }
         },
