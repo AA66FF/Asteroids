@@ -207,6 +207,14 @@
             }
         },
         {
+            "Key": "bb846e92-f016-4f6c-a48e-1e67e7162997",
+            "Value": {
+                "id": "a64109eb-90e0-4381-ad20-f381e3cf56c0",
+                "resourcePath": "objects\\o_bigAsteroid\\o_bigAsteroid.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "bd06a39e-d70c-40af-8053-947d6ec77361",
             "Value": {
                 "id": "6d4ef78a-8c84-4146-8106-b2fbfd9a8cf1",
@@ -300,6 +308,14 @@
                 "id": "dd9fbce3-2b4e-493d-984c-4c3afc2921d6",
                 "resourcePath": "sprites\\s_spaceshipDies\\s_spaceshipDies.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "eb7bc852-fa15-4a66-a8ac-3d7c95dbd1c1",
+            "Value": {
+                "id": "2eb66c7c-bd18-433d-9463-7a4cc4cf253c",
+                "resourcePath": "objects\\o_bigAsteroidBreaking\\o_bigAsteroidBreaking.yy",
+                "resourceType": "GMObject"
             }
         },
         {
